@@ -21,7 +21,7 @@ const CardListItem = () => {
         </Card.Header>
         <Card.Body>
           <Card.Title className="card-main-title">Placeholder Title</Card.Title>
-          <Card.Text>Placehodler Subtitle</Card.Text>
+          <Card.Text>Placeholder Subtitle</Card.Text>
         </Card.Body>
       </div>
       <a href="#" className="card-button">
